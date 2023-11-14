@@ -1,0 +1,10 @@
+﻿  Timber2.cpp
+E:\AluCiclesGS1\Timber2\Timber2\Timber2.cpp(68,23): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\Timber2\Timber2\Timber2.cpp(123,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+E:\AluCiclesGS1\Timber2\Timber2\Timber2.cpp(333,34): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Timber2\Timber2\Timber2.cpp(374,34): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Timber2\Timber2\Timber2.cpp(456,31): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Timber2\Timber2\Timber2.cpp(458,18): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Timber2\Timber2\Timber2.cpp(498,19): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Timber2\Timber2\Timber2.cpp(527,18): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Timber2.vcxproj -> E:\AluCiclesGS1\Timber2\x64\Debug\Timber2.exe
